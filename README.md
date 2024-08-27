@@ -5,7 +5,7 @@
 This game is developed based on [Stable Diffusion Unity Integration](https://github.com/dobrado76/Stable-Diffusion-Unity-Integration).
 
 ![](/Assets/images/ComfyUI_00180_su.png)
-![](https://www.youtube.com/watch?v=1lqRbmO4HMs)
+[![A game demo based on AI-generated gameplay](https://res.cloudinary.com/marcomontalbano/image/upload/v1724741667/video_to_markdown/images/youtube--1lqRbmO4HMs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=1lqRbmO4HMs "A game demo based on AI-generated gameplay")
 The demo video is coming soon......
 
 # 🕹Game Features
