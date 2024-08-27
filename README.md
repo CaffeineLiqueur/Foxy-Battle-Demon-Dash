@@ -30,4 +30,4 @@ python webui.py --xformers --nowebui --api --listen --share
 
 # 📒Change Log
 
-- 2024.8.27:  Github repository created and first version of the game released.
+- 2024.8.27:  Github repository created and first demo version of the game released.
