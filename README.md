@@ -4,7 +4,7 @@
 
 This game is developed based on [Stable Diffusion Unity Integration](https://github.com/dobrado76/Stable-Diffusion-Unity-Integration).
 
-![](/home/jh/Downloads/ComfyUI_00180_su.png)
+![](/Assets/images/ComfyUI_00180_su.png)
 
 The demo video is coming soon......
 
@@ -30,4 +30,4 @@ python webui.py --xformers --nowebui --api --listen --share
 
 # 📒Change Log
 
-- 2024.8.26:  Github repository created and first version of the game released.
+- 2024.8.27:  Github repository created and first version of the game released.
